@@ -1,0 +1,55 @@
+/*** Header ***/
+
+.navbar {
+    border-radius:0;
+    border:0;
+    background:#17353a;
+}
+
+.navbar-header .navbar-brand {
+    color:white;
+}
+
+.navbar-brand h1 {
+    margin:0;
+    font-size:inherit;
+}
+
+.navbar-header .navbar-toggle {
+    border:1px solid white;
+}
+
+.navbar-header .navbar-toggle:focus {
+    background:#274d5f;
+}
+.navbar-header .navbar-toggle .icon-bar {
+    border:1px solid white;
+}
+.navbar-default ul.navbar-nav>li>a  {
+    color:white;
+    font-size:16px;
+}
+
+.navbar-default ul.navbar-nav>li>a:hover  {
+    background:#eee;
+    color:#222;
+
+}
+
+/*** Main Section **/
+#MainContainer h2 {
+    margin-bottom:50px;
+    color:#274d5f;
+}
+
+.mainSection {
+    padding:15px 30px;
+    background:rgb(29, 61, 66);
+    color:white;
+    margin-bottom:30px;
+}
+
+.mainSection p {
+    margin:20px 0px;
+    line-height: 1.8;
+}
